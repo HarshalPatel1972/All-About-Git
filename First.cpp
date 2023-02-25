@@ -16,6 +16,8 @@ int main()
 
     cout << "Sum of " << num1 << " and " << num2 << " is " << sum << endl;
 
+    cout << endl;
+
     return 0;
 }
 
